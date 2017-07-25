@@ -1,5 +1,5 @@
 ---
-disqusIdentifier: ivApCQ1Kop
+#disqusIdentifier: ivApCQ1Kop
 title: "Sprints, Marathons, and Code"
 date: 2017-07-23T00:48:30-04:00
 categories:

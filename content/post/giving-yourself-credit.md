@@ -1,6 +1,6 @@
 ---
-disqusIdentifier: ivApCQ1Kop
-title: "Lessions in Programming: Giving Yourself Credit"
+#disqusIdentifier: ivApCQ1Kop
+title: "Lessons in Programming: Giving Yourself Credit"
 date: 2017-07-24T06:52:10-04:00
 categories:
 - lifeintech
@@ -54,15 +54,15 @@ This Code Check-In that you do can also be a great resource for figuring out exa
 
 Still, writing about your goals is just half the battle. Here are my favorite tips for getting out of the Low-Credit Loop and giving yourself the credit you deserve:
 
-1. Work on a small scale project - one that's just enough to get you into some muddy waters but not completely out of your depth to leave you confused.
+#### Work on a small scale project - one that's just enough to get you into some muddy waters but not completely out of your depth to leave you confused.
 
 For example, I'm working on a mini-project were I take some of the FreeCodeCamp [algorithm challenges](https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges) and try to solve them in Go. You can view my repository [here](https://github.com/zentechnista/go_fcc) for the curious. Algorithms are a great way to hone your computational thinking skills, and there are enough small scale ones to put a bit of pressure on you without being overwhelming.
 
-2. Join meetups - either ones on a new topic or just general project nights.
+#### Join meetups - either ones on a new topic or just general project nights.
 
 In my opinion, project night meetups are amazing as it's way to interact with other people's code and the opportunity to have your own code reviewed. For self-studiers, it's an invaluable resource for learning how to work with other developers.
 
-3. Try to build something that you're only 60% familiar with.
+#### Try to build something that you're only 60% familiar with.
 
 My greatest example - this site! I came in knowing only a little bit about GitHub pages and a stubborn determination to build a static website with [Hugo](https://gohugo.io/). Because Go is life, naturally. I made numerous mistakes - some sillier than others - and probably learned more about templating, HTTP, and hosting than I would have if I just looked at a tutorial and called it a day. It was a fun experience and I learned a lot from it. There's a lot of accomplishment that comes with diving into the unknown and coming out only (partly) unscathed.  
 
@@ -75,6 +75,9 @@ Read [Mastery](https://smile.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillme
 
 And as always, I leave you with a programming quote:
 
+
 {{< tweet 844257052390293504 >}}
+
+
 
 {{% unsplashcredit link="http://unsplash.com/@maximebhm?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Maxime Bhm"%}}

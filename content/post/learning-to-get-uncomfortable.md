@@ -1,5 +1,5 @@
 ---
-disqusIdentifier: ivApCQ1Kop
+#disqusIdentifier: ivApCQ1Kop
 title: "Lessons in Programming: Learning To Get Uncomfortable"
 date: 2017-07-23T00:49:02-04:00
 categories:
