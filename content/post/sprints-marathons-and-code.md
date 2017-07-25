@@ -1,4 +1,5 @@
 ---
+disqusIdentifier: ivApCQ1Kop
 title: "Sprints, Marathons, and Code"
 date: 2017-07-23T00:48:30-04:00
 categories:
@@ -10,8 +11,8 @@ tags:
 keywords:
 - tech
 thumbnailImagePosition: left
-thumbnailImage: http://res.cloudinary.com/dgyz97es2/image/upload/t_media_lib_thumb/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
-coverImage: http://res.cloudinary.com/dgyz97es2/image/upload/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
+thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
+coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
 metaAlignment: center
 ---
 
@@ -19,17 +20,17 @@ Roughly about 3 months ago to the day, I made an exciting decision to leave my p
 
 <!--more-->
 
-So where does that leave me three months now? As someone who is very persistent and determined (yay!) but a terrible scheduler (seriously, I'm the queen of unused planner) I thrive on less openly structured forms of learning. It's probably why I've been so fond of [Mastery-Based Learning](https://firesidetech.wordpress.com/2017/02/15/lessons-in-programming-on-mastery-and-progress/), and focused on gradually improving my programming skills over the last 6 months. I wanted to move away from focusing on time-based goals and learning systems and decided to do the following:
+So where does that leave me three months now? As someone who is very persistent and determined (yay!) but a terrible scheduler (seriously, I'm the queen of unused planners) I thrive on less openly structured forms of learning. It's probably why I've been so fond of [Mastery-Based Learning](https://firesidetech.wordpress.com/2017/02/15/lessons-in-programming-on-mastery-and-progress/), and focused on gradually improving my programming skills over the last 6 months. I wanted to move away from focusing on time-based goals and learning systems and decided to do the following:
 
 >Instead of focusing on deadlines and set goals, aka “I want to be a programmer in 6 months”, I’m focusing on more comprehensive goals such as “gaining the skills to have a life-long career in software engineering”, and “understanding the fundamentals of programming so that I >can apply those techniques in any language”.
 
 Basically, I decided to stop seeing my programming journey as a sprint:
 
-![sprint](http://res.cloudinary.com/dgyz97es2/image/upload/v1500817873/tim-gouw-73926_m8ugf5.jpg)
+![sprint](https://res.cloudinary.com/dgyz97es2/image/upload/v1500817873/tim-gouw-73926_m8ugf5.jpg)
 
 And decided to see it as a journey without a end date (but always with a direction).
 
-![dog-running](http://res.cloudinary.com/dgyz97es2/image/upload/v1500818073/leo-rivas-micoud-25478_gan9zo.jpg)
+![dog-running](https://res.cloudinary.com/dgyz97es2/image/upload/v1500818073/leo-rivas-micoud-25478_gan9zo.jpg)
 
 I learned a lot from that experience, and it changed not just how I went about my programming goals, but how I viewed my current skills in relation to my overall, long-term ambitions. While my eventual goal is to become a software engineer, I'm pretty good a being a medium between developers and the people who use their products, hence my current position as a client support engineer. It's easy to undervalue soft skills, but I'm working towards improving my skills in both technical and non-technical areas now.
 
@@ -49,4 +50,4 @@ And as always I leave you with a programming quote:
 
 Happy Coding!
 
-{{% unsplashcredit link="http://unsplash.com/@synthpimp?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Dirk Sebregts"%}}
+{{% unsplashcredit link="https://unsplash.com/@synthpimp?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Dirk Sebregts"%}}

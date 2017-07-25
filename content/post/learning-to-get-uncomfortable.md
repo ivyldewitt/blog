@@ -1,16 +1,17 @@
 ---
+disqusIdentifier: ivApCQ1Kop
 title: "Lessons in Programming: Learning To Get Uncomfortable"
 date: 2017-07-23T00:49:02-04:00
 categories:
 - lifeintech
 tags:
 - codenewbies
-- coding
+- codechronicles
 keywords:
 - tech
 thumbnailImagePosition: left
-thumbnailImage: http://res.cloudinary.com/dgyz97es2/image/upload/t_media_lib_thumb/v1500787430/robert-wiedemann-177442_jur2of.jpg
-coverImage: http://res.cloudinary.com/dgyz97es2/image/upload/v1500787430/robert-wiedemann-177442_jur2of.jpg
+thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1500787430/robert-wiedemann-177442_jur2of.jpg
+coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1500787430/robert-wiedemann-177442_jur2of.jpg
 metaAlignment: center
 ---
 "Learning to get uncomfortable." Kind of a weird article topic for a blog post right? There's tons of articles on FOMO (Fear of Missing Out for the uninitiated), ignoring FOMO, sticking on the path of mastery, never giving up, knowing how to give up, etc.
@@ -84,4 +85,4 @@ As always, I leave you with a programming quote. Happy coding!
 
 Quote courtesy of [CodeWisdom](https://twitter.com/CodeWisdom/status/859468304720834561)
 
-{{% unsplashcredit link="http://unsplash.com/@antilumen?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Robert Wiedemann"%}}
+{{% unsplashcredit link="https://unsplash.com/@antilumen?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Robert Wiedemann"%}}
