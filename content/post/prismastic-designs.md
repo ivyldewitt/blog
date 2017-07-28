@@ -12,13 +12,15 @@ keywords:
 - freelancing
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1501126442/pd1_gxtlid.png
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1501126442/pd1_gxtlid.png
+coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1501127573/matthew-henry-82940_swm9fw.jpg
 metaAlignment: center
 ---
 
 One of the most exciting (and difficult) parts of pursing any career is to step out of your comfort zone and start working towards your goals. There’s the mix of ‘am I going to be taken seriously‘, ‘am I truly ready for this‘, etc. But like all things, sometimes you just need to get your feet wet in order to make any progress and move forward.
 
 <!--more-->
+
+![site-overlay](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126442/pd1_gxtlid.png)
 
 In December of 2016, I was lucky enough to have the opportunity to work with my coworker Phil on his [website](https://www.prism-products.us/), an online store where they offer high quality new and used equipment for drummers – i.e. “Do It Yourself meets the Electronic Drum world” style. Prism is a great resource for new/upcoming musicians who need great, yet reasonably priced electronic drums and related equipment. It was an amazing vision, and I was really excited to start working on this project.
 
@@ -55,3 +57,5 @@ Once the final model is complete, I work on connecting the domain and any underl
 ![gallery-page](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126466/pd5_kioa3s.png)
 
 This was a really exciting project, and I’m glad I got to work on it as one of my first dives into design and development. I can’t wait to see where [Prism](https://www.prism-products.us/) goes, and they have a lot of great products and content that I recommend checking out.
+
+{{% unsplashcredit link="http://unsplash.com/@matthewhenry?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Matthew Henry"%}}
