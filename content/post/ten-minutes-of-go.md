@@ -24,11 +24,15 @@ It's probably no secret by now that I am a big fan of Go (also known as Golang),
 
 Go gained traction partly because it's credentials. It was created by Google, and more specifically by three well-known programers:
 
-* **Rob Pike:** Known for his work on Unix at Bell Labs, and his assistance with creating Plan 9, the Limbo Operating system, and a *teeny* important encoding system called UTF-8.
+* **Rob Pike:** Known for his work on Unix at Bell Labs, and his assistance with creating Plan 9, the Limbo programming language, and a *minor, little known* encoding system called UTF-8.
 * **Robert Griesemer:** Studied under the creator of the Pascal programming language, which Go takes [some inspiration](https://golang.org/doc/faq#ancestors) from.
-* **Ken Thompson:** Another Bell Labs alum, who was responsible for designing the original Unix operating system. Additionally, he invented the B programming language which was - you guessed it - the predecessor to the gargantuan language know as C.
+* **Ken Thompson:** Another Bell Labs alum, who was responsible for designing the original Unix operating system. Additionally, he invented the B programming language which was - you guessed it - the predecessor to the gargantuan language known as C.
+
+
 
 {{< youtube rKnDgT73v8s >}}
+
+
 
 #### Above: The Original Intro to Go from Google Tech Talks on 11/11/09.
 
@@ -37,7 +41,6 @@ The language debuted on November 10, 2009, with the intention of solving some of
 * Systems programming with existing languages had become confusing and difficult - partly due to the number of languages to choose from, and also partly due to the issues with the languages themselves.
 * There were constant tradeoffs between efficient compilation, efficient execution, or ease of programming.
 * Cores cores cores! As technology has evolved, we now have multicore computers. Due to how recent this development is, most modern languages aren't designed with multicore computing in mind.
-
 
 
 # So what is it that makes Go so special?
@@ -51,8 +54,6 @@ From someone coming from a mostly JavaScript heavy background with a bit of Pyth
 
 #### Compiled language
 
-*Fun Fact: Go was my first time work with a complied language. What, that doesn't sound fun at all? Oh well, I tried.*
-
 Go is a [complied language](https://en.wikipedia.org/wiki/Compiled_language) along the likes of C, Java, Pascal and more modern languages like Rust. Compiled languages are converted directly to machine code that can be read directly by the computer, instead of an interpreted language such as JavaScript. Go's compiler leads to it being a very fast, performant language.
 
 #### Error Checking
@@ -61,20 +62,21 @@ While this could technically go under the compiled section, I think it's worth i
 
 >"Go suffers no fools"
 
-I warn you, that is not a joke at all. Go will tell you if you declared a variable and didn't use it, if you're mismatching types (coming from JavaScript this was especially painful to learn) and any unused packages. Go does not allow for sloppy code, and while it can be difficult at times it does force you to be a more attentive programmer.
+I warn you, that is not a joke at all. Go will tell you if you declared a variable and didn't use it, if you're mismatching types (coming from JavaScript this was especially painful to learn) and subtly hint that you added but didn't use a package. Go rarely allows for sloppy code, and while it can be difficult at times it does force you to be a more attentive programmer.
+
 
 #### Concurrency
 
 In some respects, you could argue that concurrency is the core of what makes Go so successful. With modern computing, concurrency is crucial to using multicore machines running web servers with multiple clients. Due to how often that type of computing environment is used at Google, it's no wonder why Go was made to handle it.
 
-I won't explain the full details of concurrency here, but in short, concurrency is the expression of a program as a composition of several autonomous activities. Stated in another way this involves multiple copies of a program being run at the same time, but during execution the copies of the program are communicating with each other. Think of it as a baton pass. Go utilizes this through channels and go routines, which allow for simple and easy communication between running tasks.
+I won't explain the full details of concurrency here, but in short it is the expression of  multiple copies of a program being run at the same time, and during execution the copies of the program are communicating with each other. Think of it as a baton pass - two runners are moving alongside each other, and doing handoffs at specific intervals. Go utilizes concurrency through channels and go routines, which allow for simple and easy communication between running tasks.
 
 
 #### Simplicity
 
 With everything I've added so far, you might be thinking: *Go seems unreasonably difficult to learn.*
 
-I want to be sincere in saying that **Go is simple**. Deceptively so, even. In my opinion, one of the nice things about Go's error checking is that it allows for very clean, readable code. Go has a robust Standard Library, and is overall very simple to learn. One of the neat things about Go is that it has many of the features that other languages use frameworks for - most notably its net/http package for creating web servers.
+I want to be sincere in saying that **Go is simple**. Deceptively so, even. In my opinion, one of the nice things about Go's error checking is that it allows for very clean, readable code. Go has a robust standard library, and is overall very simple to learn. One of the neat things about Go is that it has many of the features within its standard library that other languages use frameworks for - most notably its net/http package for creating web servers.
 
 
 #### So what does Go look like?
@@ -116,15 +118,15 @@ func reverseStrings(s string) string {
 ```
 *Author's Note: Smiley faces are all mine.*
 
-To start, we import the packages fmt and main as we'll need some of the functions within those packages to print to standout output and manipulate our strings, respectively. In the reverseStrings function, we split the string into runes (*runes are integer values mapped to their unicode characters*) reverse it via a for loop, then convert it back into a string.
+To start, we import the packages ```fmt``` and ```strings``` as we'll need some of the functions within those packages to print to standout output and manipulate our strings, respectively. In the ```reverseStrings()``` function, we split the string into runes (*runes are integer values mapped to their unicode characters*) reverse it via a for loop, then convert it back into a string.
 
-The palindrome function is much simpler - we take in the string, convert it to lowercase, and then perform the reverseStrings function. We then compare the lowercase string to the reversed - string, and return whether it is a palindrome. We then run a few tests in func main and print the output.
+The ```palindrome()``` function is much simpler - we take in the string, convert it to lowercase, and then perform the ```reverseStrings``` function. We then compare the lowercase string to the reversed - string, and return whether it is a palindrome. We then run a few tests in ```main()``` and print the output.
 
 You can play around with this code at the Go Playground [here](https://play.golang.org/p/LQbaaoJH3g).
 
 #### How do I get started with Go?
 
-To get started with Go, check out [A Tour Of Go](https://tour.golang.org/welcome/1) on the main language site, as it's a nice intro to the basics without the hassle of downloading Go. One of my personal favorite resources is [Go By Example](https://gobyexample.com/), which outlines basic to advanced concepts with full program examples, including URL parsing. For books, I recommend [Introducing Go](https://www.amazon.com/gp/product/1491941952/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491941952&linkCode=as2&tag=yotomc-20&linkId=QRK7HPHBXX5E4BTB) by Caleb Doxsey and [The Go Programming Language](https://www.amazon.com/gp/product/0134190440/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134190440&linkCode=as2&tag=httptwitco08e-20&linkId=ETDSVP5UBIOEKWMD). The latter is a bit more advanced, but serves as a great reference book. Lastly, where would I be if I didn't recommend my favorite video tutorial? If you're like me and video learning is much easier than books, I can't stress enough on [Learn How To Code](https://greatercommons.com/learn/5098183625539584) by Todd McLeod. It's a great intro to programming in general, but definitely to Go.
+To get started with Go, check out [A Tour Of Go](https://tour.golang.org/welcome/1) on the main language site, as it's a nice intro to the basics without the hassle of downloading Go. One of my personal favorite resources is [Go By Example](https://gobyexample.com/), which outlines basic to advanced concepts with full program examples, including URL parsing. For books, I recommend [Introducing Go](https://www.amazon.com/gp/product/1491941952/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491941952&linkCode=as2&tag=yotomc-20&linkId=QRK7HPHBXX5E4BTB) and [The Go Programming Language](https://www.amazon.com/gp/product/0134190440/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134190440&linkCode=as2&tag=httptwitco08e-20&linkId=ETDSVP5UBIOEKWMD). The latter is a bit more advanced, but serves as a great reference book. Lastly, where would I be if I didn't recommend my favorite video tutorial? If you're like me and video learning provides a more comprehensive and interactive learning experience than books, I can't stress enough on [Learn How To Code](https://greatercommons.com/learn/5098183625539584) by Todd McLeod. It's a great intro to programming in general, but definitely to Go.
 
 In conclusion, Go shines with concurrency, but has a lot of features that make it a fun and fast language to learn. Plus, the mascot is awesome:
 
@@ -143,6 +145,8 @@ In conclusion, Go shines with concurrency, but has a lot of features that make i
 [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 
 [Let's Go: Golang Concurrency](https://code.tutsplus.com/series/lets-go-golang-concurrency--cms-1087)
+
+
 
 
 {{% unsplashcredit link="https://unsplash.com/@mpho_mojapelo?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Mpho Mojapelo"%}}
