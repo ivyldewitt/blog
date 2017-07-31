@@ -1,5 +1,5 @@
 ---
-disqusIdentifier: ivApCQ1Kop
+#disqusIdentifier: ivApCQ1Kop
 title: "Ten Minutes Of Go"
 date: 2017-07-30T19:11:03-04:00
 categories:

@@ -6,7 +6,7 @@ theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "disqus_ivApCQ1Kop"
 publishDir = "public"
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-103557520-1"
 paginate = 7
 canonifyurls = true
 

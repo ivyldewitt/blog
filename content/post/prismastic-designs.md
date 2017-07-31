@@ -1,5 +1,5 @@
 ---
-disqusIdentifier: ivApCQ1Kop
+#disqusIdentifier: ivApCQ1Kop
 title: "Prismastic Designs"
 date: 2017-07-26T23:31:32-04:00
 categories:
