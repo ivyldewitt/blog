@@ -25,6 +25,7 @@ Like many, I took
 
 
 
+
 A lot of people who have completed the challenge wanted to repeat it, because of the impact it had on their results and how it sped up their learning process.
 
 I believe that retaking the challenge is very valuable, but you need to have a way of measuring and analyzing your progress, to be able to improve your plan and outcomes for the next round.

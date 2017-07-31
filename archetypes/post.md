@@ -19,3 +19,6 @@ metaAlignment: center
 <!--more-->
 
 {{% unsplashcredit link="" title=""%}}
+
+
+{{ template "_internal/disqus.html" . }}

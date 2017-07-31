@@ -6,8 +6,9 @@ categories:
 - category
 - subcategory
 tags:
-- tag1
-- tag2
+- codenewbies
+- golang
+- codechronicles
 keywords:
 - tech
 thumbnailImagePosition: left

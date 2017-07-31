@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://zentechnista.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "zentechnista"
@@ -148,7 +148,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+  favicon = "https://res.cloudinary.com/dgyz97es2/image/upload/v1501472100/favicon_k80rwy.ico"
 
   # Header configuration
   # The link at the right of the header is customizable
