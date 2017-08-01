@@ -17,7 +17,7 @@ metaAlignment: center
 draft: true
 ---
 
-Like many, I took
+Like many, I started off 2017 with the #100DaysOfCode challenge. 
 
 <!--more-->
 

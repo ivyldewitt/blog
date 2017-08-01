@@ -3,8 +3,7 @@
 title: "Ten Minutes Of Go"
 date: 2017-07-30T19:11:03-04:00
 categories:
-- category
-- subcategory
+- lifeintech
 tags:
 - codenewbies
 - golang
@@ -20,6 +19,8 @@ metaAlignment: center
 It's probably no secret by now that I am a big fan of Go (also known as Golang), an open source programming language that is known for its speed and efficiency. As we move towards [Go 2](https://blog.golang.org/toward-go2) and the eventual nuances and challenges that will come with its newest iteration, I want to take a few minutes to talk about what I think makes Go so special.
 
 <!--more-->
+
+{{< figure src="https://res.cloudinary.com/dgyz97es2/image/upload/v1501537076/gophercolor_p2yfmh.png" title="The Go Gopher: Courtesy of Renee French" >}}
 
 # Origins of Go
 
