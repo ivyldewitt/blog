@@ -14,7 +14,6 @@ thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1501645407/lewis-ngugi-186309_k1vv8x.jpg
 coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1501645407/lewis-ngugi-186309_k1vv8x.jpg
 metaAlignment: center
-draft: true
 ---
 
 Like many, I started off 2017 with the #100DaysOfCode challenge. For the uninitiated, the [100DaysOfCode](http://www.100daysofcode.com/) challengen involves coding a minimum of an hour each day, and tweeting your progress about what you've been working on and accomplished. While the focus of the challenge is to work on projects everyday, a mix of projecs and tutorials are still sufficient if you need some input before starting your next challenge.
@@ -22,6 +21,8 @@ Like many, I started off 2017 with the #100DaysOfCode challenge. For the uniniti
 <!--more-->
 
 ## Background
+
+![coding](https://goo.gl/photos/qpUeZxSFzXuWTWDz9)
 
 I had an interest in web development since college, and somehow managed to get involved with editing WordPress sites at three of the part-time jobs I was working at in college. But I never considered myself to be proficient at coding - my diastourous time taking CS101 in Freshman year is testament to that - it was just something I did along with my other hobbies and focus on marketing.
 
@@ -33,6 +34,8 @@ The 100DaysOfCode challenge was a blessing in disguise - it came at a time where
 
 ## What did I learn?
 
+![learning](https://goo.gl/photos/KsiXqVKe3k14uPjH8)
+
 As I mentioned in [Sprints, Marathons, and Code](https://zentechnista.github.io/2017/07/sprints-marathons-and-code/), I consider one of my biggest achivements to be completely not-coding related at all - I learned how to refocus my goals, and start focusing on [mastery-based learning](https://en.wikipedia.org/wiki/Mastery_learning). While learning to code can be a frustating, sometimes downright exhausting experience, I can safely say I feel comfortable with acknowledge, learning, and growing from my struggles. 
 
 On the more technical side, I eventually stumbled my way into learning Go, which has been amazing experience. I've been working on doing a few [freeCodeCamp challenges](https://github.com/zentechnista/go_fcc) in Go, and [reviewing](https://github.com/zentechnista/gc-go-projects) some basic principles and exercises.
@@ -43,11 +46,15 @@ Overall,
 
 ## What didn't go so well?
 
+![sad-puppy](https://goo.gl/photos/ETKAMc4Sx8DfcoW47)
+
 Learning to code has been an amazing experience, which is why it pains me to say that I need to stop learning and start focusing. If you look at my [first post](https://firesidetech.wordpress.com/2017/01/01/100daysofcode-starting-the-new-year/) on my old blog, I initially started with the goal of becoming a full-stack JavaScript developer. Looking back, it's a wonder I didn't give up on day 30. (*Sorry JavaScript lovers! JS will always be a necessary evil in my opinion*) 
 
 Obviously, things change after 100 days, and I'll admit that I took a few purposeful gaps to switch to learning other languages in the interest of career development. Still, I think if I had started with more focus, I would've had a much easier time structuring my learning to a more indepth format. I definitely want to make sure that my next round is improved, and involves more goal planning on my end.
 
 ## Pathways to improvement
+
+![improvement](https://goo.gl/photos/btcBdt4qQGz6RRnp7)
 
 After reflecting on what went well and what didn't, I think I can summarize what is my primary goal for my next 100DaysOfCode challenge:
 
@@ -55,7 +62,7 @@ After reflecting on what went well and what didn't, I think I can summarize what
 
 That may sound vague, but I honestly think it's one of the most important aspects of the challenge that I overlooked: pushing yourself to code every day and work on projects may ultimately lead to a career in software development, but that's not what path of mastery consists of. Mastery is about honing your craft, and that's ultimately what I want to do.
 
-#### Implement a way to measure the quality of my days
+#### Measure the quality of my learning
 
 Full credit for this idea goes to the creater here:
 
@@ -67,14 +74,15 @@ But I've now whipped out my own Journal and have started to color-code my days b
 
 Similiar to the #100DaysOfCode log, I've started taking daily reflection/log notes in my GitHub repo.. Especially for tutorials,and it's a great way to be able to review the material and have comprehensive notes to reference for my own projects. You can view an example of my log for the "Learn How to Code" with Go course [here](https://github.com/zentechnista/gc-go-projects/blob/master/golang-log.md).
 
-
 #### Weekly reflections
 
 While my notes will be online via GitHub, I think there's some value in keeping my reflections offline. It also allows me to write out everything I've learned by hand, away from the computer.
 
 #### Review Days
 
-The one minus of the #100DaysOfCode challenge for me is that it's implied that you should be learning something new/working on a project every single day. Sometimes, it's equal important to have days where all you do is reflect, review, and practice with the code that you've been working on. 
+The one minus of the #100DaysOfCode challenge for me is that it's implied that you should be learning something new/working on a project every single day. Sometimes, it's equal important to have days where all you do is reflect, review, and practice with the code that you've been working on.
+
+Learning to code is a long, hard, but ultimately fulfilling journey. I hope these tips helped you along your way!
 
 As always, I leave you with a programming quote:
 
