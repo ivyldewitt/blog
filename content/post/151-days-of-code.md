@@ -1,7 +1,7 @@
 ---
 #disqusIdentifier: ivApCQ1Kop
 title: "151 Days Of Code"
-date: 2017-07-29T09:03:59-04:00
+date: 2017-08-02T09:03:59-04:00
 categories:
 - lifeintech
 - programming
@@ -22,7 +22,6 @@ Like many, I started off 2017 with the #100DaysOfCode challenge. For the uniniti
 
 ## Background
 
-![coding](https://goo.gl/photos/qpUeZxSFzXuWTWDz9)
 
 I had an interest in web development since college, and somehow managed to get involved with editing WordPress sites at three of the part-time jobs I was working at in college. But I never considered myself to be proficient at coding - my diastourous time taking CS101 in Freshman year is testament to that - it was just something I did along with my other hobbies and focus on marketing.
 
@@ -34,7 +33,6 @@ The 100DaysOfCode challenge was a blessing in disguise - it came at a time where
 
 ## What did I learn?
 
-![learning](https://goo.gl/photos/KsiXqVKe3k14uPjH8)
 
 As I mentioned in [Sprints, Marathons, and Code](https://zentechnista.github.io/2017/07/sprints-marathons-and-code/), I consider one of my biggest achivements to be completely not-coding related at all - I learned how to refocus my goals, and start focusing on [mastery-based learning](https://en.wikipedia.org/wiki/Mastery_learning). While learning to code can be a frustating, sometimes downright exhausting experience, I can safely say I feel comfortable with acknowledge, learning, and growing from my struggles. 
 
@@ -46,7 +44,6 @@ Overall,
 
 ## What didn't go so well?
 
-![sad-puppy](https://goo.gl/photos/ETKAMc4Sx8DfcoW47)
 
 Learning to code has been an amazing experience, which is why it pains me to say that I need to stop learning and start focusing. If you look at my [first post](https://firesidetech.wordpress.com/2017/01/01/100daysofcode-starting-the-new-year/) on my old blog, I initially started with the goal of becoming a full-stack JavaScript developer. Looking back, it's a wonder I didn't give up on day 30. (*Sorry JavaScript lovers! JS will always be a necessary evil in my opinion*) 
 
@@ -54,7 +51,6 @@ Obviously, things change after 100 days, and I'll admit that I took a few purpos
 
 ## Pathways to improvement
 
-![improvement](https://goo.gl/photos/btcBdt4qQGz6RRnp7)
 
 After reflecting on what went well and what didn't, I think I can summarize what is my primary goal for my next 100DaysOfCode challenge:
 
