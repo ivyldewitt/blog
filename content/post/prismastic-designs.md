@@ -11,8 +11,8 @@ keywords:
 - webdesign
 - freelancing
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1501126442/pd1_gxtlid.png
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1501127573/matthew-henry-82940_swm9fw.jpg
+thumbnailImage: https://firesidetech.files.wordpress.com/2017/01/screen-shot-2017-01-22-at-10-58-17-pm.png
+coverImage: https://firesidetech.files.wordpress.com/2017/02/hi5dx2obas-nasa.jpg
 metaAlignment: center
 ---
 
@@ -20,7 +20,7 @@ One of the most exciting (and difficult) parts of pursing any career is to step 
 
 <!--more-->
 
-![site-overlay](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126442/pd1_gxtlid.png)
+![site-overlay](https://firesidetech.files.wordpress.com/2017/01/screen-shot-2017-01-22-at-10-58-17-pm.png)
 
 In December of 2016, I was lucky enough to have the opportunity to work with my coworker Phil on his [website](https://www.prism-products.us/), an online store where they offer high quality new and used equipment for drummers – i.e. “Do It Yourself meets the Electronic Drum world” style. Prism is a great resource for new/upcoming musicians who need great, yet reasonably priced electronic drums and related equipment. It was an amazing vision, and I was really excited to start working on this project.
 
@@ -38,9 +38,9 @@ Usually, clients will throw out their ideas and I will provide input and updates
 
 For those unfamiliar with Squarespace, the site allows you to select from a number of custom templates, all of which have some level of e-commerce features (the main point of the site). Luckily, my coworker already had a basic version of the website design via Weebly, so after we decided on a template, I was able to sketch out a basic mockup for the site based on that preset design.
 
-![wireframing-example](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126451/pd2_vllvf4.png)
+![wireframing-example](https://firesidetech.files.wordpress.com/2017/01/prism-mockup1.png)
 
-![wireframing-example-dos](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126455/pd3_key2hr.png)
+![wireframing-example-dos](https://firesidetech.files.wordpress.com/2017/01/prism-mockup2.png)
 
 Once I have the basic mockup and style complete, I usually get down to business and start a free trial. While I have heard of some designers having the client set up the site and then have them give access to you, I personally prefer setting up a trial site and then giving the client access via an administrator link. This protects their privacy, and gives me a chance to do the initial setup and then display it to them after I’ve gotten a working/functional site down.
 
@@ -48,13 +48,13 @@ From there, I start customizing the template. For this project I used the Tremon
 
 After building the template, I spend most of my time within the style editor, ensuring that the color scheme and display are in line with the client’s request. Making sure everything is presented in a sleek and easily digestible way is crucial, especially for an e-commerce site. I also typically make use of the Custom CSS section, as I prefer to add my own styling to the overall layout of the site, and check to make sure it’s compatible across multiple devices and browsers.
 
-![product-page](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126461/pd4_sjcqqc.png)
+![product-page](https://firesidetech.files.wordpress.com/2017/01/screen-shot-2017-01-24-at-8-45-45-pm.png)
 
 After I have a sustainable working model, I’ll send an invite to the client so that they can see the layout and make suggestions and changes. My coworker was already familiar with Squarespace, so he was able to easily jump right in and see the portions that he wanted to change or keep the same. In the end, the final model stayed relatively unchanged from the initial model with the except of styling and minor individual page layout modifications.
 
 Once the final model is complete, I work on connecting the domain and any underlying accounts that the client wants to add (ex: G-Suite, Google Analytics, Dropbox, etc.). Afterwards, I focus on clearing up any underlying questions regarding the site or Squarespace in general and send over my invoice. It’s incredibly satisfying to see the final version of a product, and both the client and customers can bring the site to life. For example, here’s the gallery page for Prism Products:
 
-![gallery-page](https://res.cloudinary.com/dgyz97es2/image/upload/v1501126466/pd5_kioa3s.png)
+![gallery-page](https://firesidetech.files.wordpress.com/2017/01/page-shot-2017-1-24-show.png)
 
 This was a really exciting project, and I’m glad I got to work on it as one of my first dives into design and development. I can’t wait to see where [Prism](https://www.prism-products.us/) goes, and they have a lot of great products and content that I recommend checking out.
 

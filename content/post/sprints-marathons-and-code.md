@@ -11,8 +11,8 @@ tags:
 keywords:
 - tech
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1500787571/dirk-sebregts-2408_uxwnlo.jpg
+thumbnailImage: https://firesidetech.files.wordpress.com/2017/08/tim-gouw-73926_m8ugf5.jpg
+coverImage: https://firesidetech.files.wordpress.com/2017/08/tim-gouw-73926_m8ugf5.jpg
 metaAlignment: center
 ---
 
@@ -26,11 +26,7 @@ So where does that leave me three months now? As someone who is very persistent 
 
 Basically, I decided to stop seeing my programming journey as a sprint:
 
-![sprint](https://res.cloudinary.com/dgyz97es2/image/upload/v1500817873/tim-gouw-73926_m8ugf5.jpg)
-
 And decided to see it as a journey without a end date (but always with a direction).
-
-![dog-running](https://res.cloudinary.com/dgyz97es2/image/upload/v1500818073/leo-rivas-micoud-25478_gan9zo.jpg)
 
 I learned a lot from that experience, and it changed not just how I went about my programming goals, but how I viewed my current skills in relation to my overall, long-term ambitions. While my eventual goal is to become a software engineer, I'm pretty good a being a medium between developers and the people who use their products, hence my current position as a client support engineer. It's easy to undervalue soft skills, but I'm working towards improving my skills in both technical and non-technical areas now.
 

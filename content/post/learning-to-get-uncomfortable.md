@@ -10,8 +10,8 @@ tags:
 keywords:
 - tech
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1500787430/robert-wiedemann-177442_jur2of.jpg
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1500787430/robert-wiedemann-177442_jur2of.jpg
+thumbnailImage: https://firesidetech.files.wordpress.com/2017/05/robert-wiedemann-177442.jpg
+coverImage: https://firesidetech.files.wordpress.com/2017/05/robert-wiedemann-177442.jpg
 metaAlignment: center
 ---
 "Learning to get uncomfortable." Kind of a weird article topic for a blog post right? There's tons of articles on FOMO (Fear of Missing Out for the uninitiated), ignoring FOMO, sticking on the path of mastery, never giving up, knowing how to give up, etc.

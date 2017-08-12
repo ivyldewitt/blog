@@ -12,8 +12,8 @@ keywords:
 - tech
 - learntocode
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1500893632/maxime-bhm-110039_oma9ax.jpg
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1500893632/maxime-bhm-110039_oma9ax.jpg
+thumbnailImage: https://firesidetech.files.wordpress.com/2017/08/maxime-bhm-110039_oma9ax.jpg
+coverImage: https://firesidetech.files.wordpress.com/2017/08/maxime-bhm-110039_oma9ax.jpg
 metaAlignment: center
 ---
 
@@ -27,7 +27,7 @@ As I mentioned in my [previous blog](https://zentechnista.github.io/2017/07/less
 
 ## So what does this have to do with not giving yourself enough credit?
 
-![lonely-by-windowsill](https://res.cloudinary.com/dgyz97es2/image/upload/v1500943728/noah-silliman-136622_tx23nm.jpg)
+![reading-lonely](https://firesidetech.files.wordpress.com/2017/05/aaron-burden-236415.jpg)
 
 As a new programmer, you have the benefit of coming into software development with fresh eyes and an unique perspective. You have the ability to carve out your own path, join an amazing community of coders, and begin a journey to learn an invaluable skill (I think computers are pretty magical if you haven't caught that already).
 
@@ -44,7 +44,7 @@ Either due to comfort, fear, or both, you end up staying in the same spot (*from
 
 ## What I can do to get of the Low-Credit Loop?
 
-![Fist-Pump](https://res.cloudinary.com/dgyz97es2/image/upload/v1500944006/rawpixel-com-250087_aferei.jpg)
+![Fist-Pump](https://firesidetech.files.wordpress.com/2017/08/rawpixel-com-250087_aferei.jpg)
 
 First off, seriously give yourself some credit to how far you've come since you've started your journey. Even if it's only been a few months, write down everything you've accomplished from now until then and be grateful! Every day you've studied programming is a successful day, and even if you check in with yourself once a month, you'd be surprised how much you learned over time. As one of my favorite teachers Todd McLeod says in his [Learn to Code with Go course](https://www.youtube.com/watch?v=oxtp9Puk_Y4) (paraphrased):
 

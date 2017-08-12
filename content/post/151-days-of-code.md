@@ -11,8 +11,8 @@ tags:
 keywords:
 - tech
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dgyz97es2/image/upload/c_limit,h_100,w_150/v1501645407/lewis-ngugi-186309_k1vv8x.jpg
-coverImage: https://res.cloudinary.com/dgyz97es2/image/upload/v1501645407/lewis-ngugi-186309_k1vv8x.jpg
+thumbnailImage: https://firesidetech.files.wordpress.com/2017/05/lewis-ngugi-186309.jpg
+coverImage: https://firesidetech.files.wordpress.com/2017/05/lewis-ngugi-186309.jpg
 metaAlignment: center
 ---
 
