@@ -20,5 +20,3 @@ metaAlignment: center
 
 {{% unsplashcredit link="" title=""%}}
 
-
-{{ template "_internal/disqus.html" . }}
