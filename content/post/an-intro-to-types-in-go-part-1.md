@@ -23,11 +23,7 @@ Before Go, I had primarily programmed in JavaScript and Python which had the fun
 
 <!--more-->
 
-# Part 1: Static vs Dynamic Typing
-
-# Part 2: An Overview of Primitive Types (Coming Soon!)
-
-# Part 3: An Overview of Composite Types (Coming Soon!)
+![skyscraper](https://firesidetech.files.wordpress.com/2017/08/chris-barbalis-177813.jpg)
 
 ## What is a type?
 

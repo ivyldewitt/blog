@@ -27,7 +27,7 @@ As I mentioned in my [previous blog](https://zentechnista.github.io/2017/07/less
 
 ## So what does this have to do with not giving yourself enough credit?
 
-![reading-lonely](https://firesidetech.files.wordpress.com/2017/05/aaron-burden-236415.jpg)
+![reading-lonely](https://firesidetech.files.wordpress.com/2017/05/kyle-ryan-16660.jpg)
 
 As a new programmer, you have the benefit of coming into software development with fresh eyes and an unique perspective. You have the ability to carve out your own path, join an amazing community of coders, and begin a journey to learn an invaluable skill (I think computers are pretty magical if you haven't caught that already).
 
