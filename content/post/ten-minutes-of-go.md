@@ -51,7 +51,6 @@ In the Go FAQ, the developers have the following to say about why they thought i
 
 >"Go is an attempt to combine the ease of programming of an interpreted, dynamically typed language with the efficiency and safety of a statically typed, compiled language. It also aims to be modern, with support for networked and multicore computing. Finally, working with Go is intended to be fast: it should take at most a few seconds to build a large executable on a single computer. To meet these goals required addressing a number of linguistic issues: an expressive but lightweight type system; concurrency and garbage collection; rigid dependency specification; and so on. These cannot be addressed well by libraries or tools; a new language was called for."
 
-
 From someone coming from a mostly JavaScript heavy background with a bit of Python, Go definitely felt like taking a cross-country trip - lots of new sights, new landmarks, and tons of new mistakes to make. Now that I've been working with Go for a few months, here's what I summarize as the core benefits of Go:
 
 #### Compiled language
@@ -60,7 +59,7 @@ Go is a [complied language](https://en.wikipedia.org/wiki/Compiled_language) alo
 
 #### Error Checking
 
-While this could technically go under the compiled section, I think it's worth it's own shoutout. That said, error checking in Go is neat, pristine, and arguably does wonders to improve your own debugging skills in my opinion. As one of my favorite Go teachers, [Todd McLeod](https://twitter.com/Todd_McLeod) says:
+While this could technically go under the compiled section, I think it's worth it's own shout-out. That said, error checking in Go is neat, pristine, and arguably does wonders to improve your own debugging skills in my opinion. As one of my favorite Go teachers, [Todd McLeod](https://twitter.com/Todd_McLeod) says:
 
 >"Go suffers no fools"
 
@@ -79,7 +78,6 @@ I won't explain the full details of concurrency here, but in short it is the exp
 With everything I've added so far, you might be thinking: *Go seems unreasonably difficult to learn.*
 
 I want to be sincere in saying that **Go is simple**. Deceptively so, even. In my opinion, one of the nice things about Go's error checking is that it allows for very clean, readable code. Go has a robust standard library, and is overall very simple to learn. One of the neat things about Go is that it has many of the features within its standard library that other languages use frameworks for - most notably its net/http package for creating web servers.
-
 
 #### So what does Go look like?
 
@@ -147,8 +145,5 @@ In conclusion, Go shines with concurrency, but has a lot of features that make i
 [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 
 [Let's Go: Golang Concurrency](https://code.tutsplus.com/series/lets-go-golang-concurrency--cms-1087)
-
-
-
 
 {{% unsplashcredit link="https://unsplash.com/@mpho_mojapelo?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Mpho Mojapelo"%}}

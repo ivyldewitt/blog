@@ -23,7 +23,7 @@ Before Go, I had primarily programmed in JavaScript and Python which had the fun
 
 <!--more-->
 
-![skyscraper](https://firesidetech.files.wordpress.com/2017/08/chris-barbalis-177813.jpg)
+{{< figure src="https://firesidetech.files.wordpress.com/2017/08/chris-barbalis-177813.jpg" title="Building on your knowledge of programming fundamentals sometimes seems like building a skyscraper." >}}
 
 ## What is a type?
 
@@ -46,9 +46,9 @@ Now that you’ve gotten a decent overview of what types are, let’s take a loo
 
 The difference between static vs dynamic typing ultimate refers to at what point in the program are we verifying the logic of the types – also known as type checking.
 
-To elaborate, Type Checking is the process of verifying and placing constraints on types in a program.  This can occur either at compile time (static typing) or runtime (dynamic checking). The purpose of type checking is to reduce the amount of type-related errors as much as possible, and in other words, ensure that if you’re program isn’t running as expected it’s not due to a type error 
+To elaborate, Type Checking is the process of verifying and placing constraints on types in a program.  This can occur either at compile time (static typing) or runtime (dynamic checking). The purpose of type checking is to reduce the amount of type-related errors as much as possible, and in other words, ensure that if you’re program isn’t running as expected it’s not due to a type error.
 
-One the reasons why statically typed languages are popular is that type checking at compile time allows for more swiftly executing code, as a result of the compiler knowing the specific data types being used and overall reduces the need to repeat type checks every time the program is executed. 
+One the reasons why statically typed languages are popular is that type checking at compile time allows for more swiftly executing code, as a result of the compiler knowing the specific data types being used and overall reduces the need to repeat type checks every time the program is executed.
 
 In contrast, dynamic typing will cause a program to report type errors at runtime, not compile time. Dynamic typing provides a number of benefits, including [dynamic dispatch](https://en.wikipedia.org/wiki/Dynamic_dispatch) & [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming). Additionally, even many static languages have some implementation of dynamic type checking – even Go uses a form of dynamic dispatch with interfaces.
 
@@ -78,7 +78,7 @@ var cookies = 'molasses';
 concatCookies(basketOfCookies, cookies);
 ```
 
-[View in JSFiddle](https://jsfiddle.net/g442fo6c/)
+[View in JSFiddle.](https://jsfiddle.net/g442fo6c/)
 
 I’m able to compile a string and an integer and JavaScript, being the smart language that it is can immediately determine that while basketOfCookies is a number (or int), it can coerce the type to a string in order to print the full string to the console.
 
@@ -106,7 +106,7 @@ func concatCookies(c string, b int) string {
 }
 ```
 
-[View on the Go Playground](https://play.golang.org/p/BNbAh3OcWy)
+[View on the Go Playground.](https://play.golang.org/p/BNbAh3OcWy)
 
 I get the following scary looking (but surprisingly straightforward) error:
 
@@ -137,7 +137,7 @@ func concatCookies(c string, b int) string {
 }
 ```
 
-[View on the Go Playground](https://play.golang.org/p/bLCRpI49Zx)
+[View on the Go Playground.](https://play.golang.org/p/bLCRpI49Zx)
 
 We'll discuss this in more detail in another section - but note a few things here:
 

@@ -64,8 +64,7 @@ In my opinion, project night meetups are amazing as it's way to interact with ot
 
 #### Try to build something that you're only 60% familiar with.
 
-My greatest example - this site! I came in knowing only a little bit about GitHub pages and a stubborn determination to build a static website with [Hugo](https://gohugo.io/). Because Go is life, naturally. I made numerous mistakes - some sillier than others - and probably learned more about templating, HTTP, and hosting than I would have if I just looked at a tutorial and called it a day. It was a fun experience and I learned a lot from it. There's a lot of accomplishment that comes with diving into the unknown and coming out only (partly) unscathed.  
-
+My greatest example - this site! I came in knowing only a little bit about GitHub pages and a stubborn determination to build a static website with [Hugo](https://gohugo.io/). Because Go is life, naturally. I made numerous mistakes - some sillier than others - and probably learned more about templating, HTTP, and hosting than I would have if I just looked at a tutorial and called it a day. It was a fun experience and I learned a lot from it. There's a lot of accomplishment that comes with diving into the unknown and coming out only (partly) unscathed.
 
 **Bonus Tips:**
 
@@ -75,9 +74,6 @@ Read [Mastery](https://smile.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillme
 
 And as always, I leave you with a programming quote:
 
-
 {{< tweet 844257052390293504 >}}
-
-
 
 {{% unsplashcredit link="http://unsplash.com/@maximebhm?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" title="Maxime Bhm"%}}
